@@ -4,17 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "74083f3453da68e6",
+        "id": "0026a73f2f0dcb4e",
         "type": "tabs",
         "children": [
           {
-            "id": "f3584ebaffd6024d",
+            "id": "76f2db2a7dfe79e6",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Principal Component Analysis.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Principal Component Analysis"
+            }
+          }
+        ]
+      },
+      {
+        "id": "482c70ba7bc31d8b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cf5afe9ff3e5a416",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Lec_1_PCA.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Lec_1_PCA"
             }
           }
         ]
@@ -86,11 +108,22 @@
         "type": "tabs",
         "children": [
           {
+            "id": "fbd82ac60595c6a1",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
             "id": "09afb485eebe21f0",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Lec_1_PCA.pdf",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -100,7 +133,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Lec_1_PCA"
             }
           },
           {
@@ -151,16 +184,17 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Notes/Feature Selection.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Feature Selection"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -178,14 +212,14 @@
       "bases:Create new base": false
     }
   },
-  "active": "f3584ebaffd6024d",
+  "active": "cf5afe9ff3e5a416",
   "lastOpenFiles": [
     "Notes/Principal Component Analysis.md",
-    "Notes/Feature Selection.md",
+    "Lec_1_PCA.pdf",
     "Notes/Dimensionality Reduction.md",
     "Notes/Data Reduction.md",
+    "Notes/Feature Selection.md",
     "Notes/Pasted image 20260419185458.png",
-    "Lec_1_PCA.pdf",
     "CosineVSEuclidianSimilarities.png",
     "Untitled.md",
     "Notes"
