@@ -1,0 +1,5 @@
+- In principle, there are exponentially many decision trees that can be constructed from a given set of attributes 
+- Thus, finding the optimal tree is computationally infeasible and the need arises for more heuristic approaches. 
+- There are algorithms that have been developed to induce a reasonably accurate although suboptimal decision tree in a reasonable amount of time 
+- Usually a **greedy strategy** is employed. 
+- One such algorithm is [[Hunts Algorithm]] which is the basis of many decision tree induction algorithms like ID3, C4.5, and CART.

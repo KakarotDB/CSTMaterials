@@ -22,3 +22,4 @@
 ## Some Classifiers Include 
 
 - ### [[Rule Based Classifier - Rule Extraction]]
+- ### [[Decision Tree Model]]
