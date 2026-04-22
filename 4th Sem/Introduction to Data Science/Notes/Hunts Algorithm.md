@@ -9,3 +9,6 @@ Let $D_T$ be the set of training records that are associated with node t and y =
 - **Step 2:** If $D_t$ contains records that belongs to more than one class, an *attribute test condition* is selected to partition the records into smaller subsets. A child node is created for each outcome of the test condition and the records in $D_t$ are distributed to the children based on the outcomes. 
 - Recursively apply these two steps to each child node 
 
+
+Based on  [[ID3]], [[C4.5]],  [[CART]]
+We can have a comparison with [[Information Gain VS Gini Index]]

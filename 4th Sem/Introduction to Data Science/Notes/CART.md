@@ -1,4 +1,4 @@
-CART is based on the Gini Index. 
+CART (Classification And Regression Trees) is based on the Gini Index. 
 
 ## Gini Index
 
@@ -48,4 +48,20 @@ $$
 $$
 \Delta Gini(A) = Gini(D) - Gini_A(D)
 $$
-- The attribute which provides the largest reduction in impurity is chosen to be the split node. 
+- The **attribute** which provides the **largest reduction in impurity** is chosen to be the split node. 
+
+
+## Constructing CART using Gini Index 
+
+- **Step 1** : Compute Gini Index for the root node 
+- **Step 2:** Calculate Gini Index for each attribute split 
+- **Step 3:** Select the best attribute for splitting (highest $\mathbf{Gini_A(D)}$ value)
+- **Step 4:** Create the First split in the decision tree 
+- **Step 5:** Further splitting on rest of the attributes 
+
+## How to decide which one to use
+
+- **Computational Efficiency** -> Gini Index (CART) 
+- More theoretically sound measure that accounts for information gain -> entropy 
+
+
