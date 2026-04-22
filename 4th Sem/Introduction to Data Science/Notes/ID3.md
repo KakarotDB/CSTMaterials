@@ -36,3 +36,16 @@ $$ Info(D) = - \sum_{i = 1}^{m}{p_i}{\log_2(p_i)} $$
 $$ Info_A(D) = \sum_{j = 1}^{v} {\frac{|D_j|}{|D|} \times Info(D_j)} $$
 **Information gained** by branching on attribute A 
 $$ Gain(A) = Info(D) - Info_A(D) $$ 
+
+## Computing information gain for continuous valued attributes 
+
+If attribute $A$ is a continuous valued attribute 
+
+We must determine the *best split point* 
+
+- Sort A in increasing order 
+- We consider the mid point between each pair of adjacent values as possible split point. 
+- The point with minimum expectation requirement is selected as the split point for A
+
+Split : 
+- Split tuple D into D1 satisfying $A \leq Split Point$ and D2 satisfying $A \ge Split Point$ 
