@@ -18,9 +18,10 @@ What is overfitting in decision trees ?
 - Imbalanced datasets 
 - Lack of feature selection 
 
-**Some approaches to handle imbalance in dataset**
+**Some approaches to handle imbalance in dataset and overfitting**
 
-- Balancing the dataset (eg [[SMOTE]], [[Oversampling]], [[Under-sampling]])
+- Balancing the dataset (eg [[Oversampling]], [[Under-sampling]])
 - Cost sensitive learning 
 - Ensemble of Decision trees 
 - [[Pruning]] the decision tree 
+- Using [[Ensemble Methods]]
