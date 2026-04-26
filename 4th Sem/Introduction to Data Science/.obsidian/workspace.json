@@ -4,35 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "f13a442b438d0740",
+        "id": "d58097adb4a0acdf",
         "type": "tabs",
         "children": [
           {
-            "id": "0feedcfa91ec01fe",
+            "id": "8353946f0dc0d843",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {},
               "icon": "lucide-git-fork",
               "title": "Graph view"
-            }
-          }
-        ]
-      },
-      {
-        "id": "ae4fa46268af08a7",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "4546abb76b9006d5",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Lec_classification_2.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Lec_classification_2"
             }
           }
         ]
@@ -92,8 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "376156eaf33c219d",
@@ -207,37 +188,46 @@
       "bases:Create new base": false
     }
   },
-  "active": "0feedcfa91ec01fe",
+  "active": "8353946f0dc0d843",
   "lastOpenFiles": [
+    "Notes/CART.md",
+    "Notes/C4.5.md",
+    "Notes/ID3.md",
+    "Notes/Information Gain VS Gini Index.md",
+    "Notes/Classifier Evaluation Metrics.md",
+    "Notes/Supervised Learning (Classification).md",
+    "Lec_classification_2.pdf",
+    "Notes/Deep Learning Based Oversampling.md",
+    "Notes/Oversampling.md",
+    "Notes/Hybrid Sampling.md",
+    "Notes/Borderline-SMOTE.md",
+    "Notes/Pasted image 20260425143744.png",
+    "Notes/SMOTE.md",
+    "Notes/Pasted image 20260425143110.png",
+    "Notes/Decision Tree Model.md",
+    "Notes/Under-sampling.md",
+    "Notes/Based on Clustering.md",
+    "Notes/Tomek Links.md",
+    "Notes/Pruning.md",
+    "Notes/New Note.md",
     "Lec_cluster_2026.pdf",
     "msoB3C3.tmp",
     "~$Lec_cluster_2026.pptx",
     "Lec_cluster_2026.pptx",
-    "Lec_classification_2.pdf",
     "Notes/Ensemble Methods.md",
-    "Notes/Decision Tree Model.md",
-    "Notes/Pruning.md",
-    "Notes/Information Gain VS Gini Index.md",
-    "Notes/C4.5.md",
-    "Notes/CART.md",
     "Gini Index VS Entropy.png",
-    "Notes/ID3.md",
     "Notes/Hunts Algorithm.md",
     "Information Gain V",
     "Notes/Entropy.md",
     "Notes/Data Reduction.md",
-    "Notes/Supervised Learning (Classification).md",
     "Notes/Rule Based Classifier - Rule Extraction.md",
     "Lec_classification_1.pdf",
     "Notes/Classification Models.md",
     "Notes/Unsupervised learning (Clustering).md",
     "Notes/Principal Component Analysis.md",
     "Lec_1_PCA.pdf",
-    "Notes/Dimensionality Reduction.md",
-    "Notes/Feature Selection.md",
     "Notes/Pasted image 20260419185458.png",
     "CosineVSEuclidianSimilarities.png",
-    "Untitled.md",
     "Notes"
   ]
 }

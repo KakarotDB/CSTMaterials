@@ -25,3 +25,4 @@ What is overfitting in decision trees ?
 - Ensemble of Decision trees 
 - [[Pruning]] the decision tree 
 - Using [[Ensemble Methods]]
+- Some [[Hybrid Sampling]]

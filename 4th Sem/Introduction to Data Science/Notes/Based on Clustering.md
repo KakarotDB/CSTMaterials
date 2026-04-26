@@ -1,0 +1,3 @@
+- Sampling: Obtaining a small sample $s$ to represent the whole data set $N$ 
+- Cluster the majority samples into different groups 
+- Stratified sampling : Approximate the percentage of each group in the overall dataset so that the distribution in each group is approximately the same as that in the initial set. 

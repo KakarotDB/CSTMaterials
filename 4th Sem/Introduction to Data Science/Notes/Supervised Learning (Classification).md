@@ -23,3 +23,8 @@
 
 - ### [[Rule Based Classifier - Rule Extraction]]
 - ### [[Decision Tree Model]]
+
+
+## Evaluation metrics
+
+[[Classifier Evaluation Metrics]]
