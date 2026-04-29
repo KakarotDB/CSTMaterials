@@ -8,16 +8,35 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8353946f0dc0d843",
+            "id": "ac70a2f520568605",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Classifier Evaluation Metrics.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Classifier Evaluation Metrics"
+            }
+          },
+          {
+            "id": "6ded984ac043b9e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Boostrap.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Boostrap"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -169,13 +188,23 @@
               "icon": "lucide-list",
               "title": "Outline of Feature Selection"
             }
+          },
+          {
+            "id": "46f3bad59a0fe5ad",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -185,17 +214,26 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8353946f0dc0d843",
+  "active": "6ded984ac043b9e8",
   "lastOpenFiles": [
+    "Notes/Boostrap.md",
+    "Notes/Classifier Evaluation Metrics.md",
+    "Notes/Random Subsampling.md",
+    "Notes/Holdout Method.md",
+    "Notes/KNN Algorithm.md",
+    "Lec_classification_4.pdf",
+    "Lec_classification_3.pdf",
+    "Notes/Supervised Learning (Classification).md",
+    "Notes/Naive Bayes Classifier.md",
+    "Notes/Classification Models.md",
     "Notes/CART.md",
     "Notes/C4.5.md",
     "Notes/ID3.md",
     "Notes/Information Gain VS Gini Index.md",
-    "Notes/Classifier Evaluation Metrics.md",
-    "Notes/Supervised Learning (Classification).md",
     "Lec_classification_2.pdf",
     "Notes/Deep Learning Based Oversampling.md",
     "Notes/Oversampling.md",
@@ -219,15 +257,9 @@
     "Notes/Hunts Algorithm.md",
     "Information Gain V",
     "Notes/Entropy.md",
-    "Notes/Data Reduction.md",
-    "Notes/Rule Based Classifier - Rule Extraction.md",
     "Lec_classification_1.pdf",
-    "Notes/Classification Models.md",
-    "Notes/Unsupervised learning (Clustering).md",
-    "Notes/Principal Component Analysis.md",
     "Lec_1_PCA.pdf",
     "Notes/Pasted image 20260419185458.png",
-    "CosineVSEuclidianSimilarities.png",
-    "Notes"
+    "CosineVSEuclidianSimilarities.png"
   ]
 }

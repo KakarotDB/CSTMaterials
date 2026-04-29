@@ -23,7 +23,8 @@
 
 - ### [[Rule Based Classifier - Rule Extraction]]
 - ### [[Decision Tree Model]]
-
+- [[Naive Bayes Classifier]]
+- [[KNN Algorithm]]
 
 ## Evaluation metrics
 
