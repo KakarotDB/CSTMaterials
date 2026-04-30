@@ -4,39 +4,42 @@
     "type": "split",
     "children": [
       {
-        "id": "d58097adb4a0acdf",
+        "id": "f70195837cf2306d",
         "type": "tabs",
         "children": [
           {
-            "id": "ac70a2f520568605",
+            "id": "8b58146261f8ae2e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Classifier Evaluation Metrics.md",
+                "file": "Notes/Hierarchical Clustering.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Classifier Evaluation Metrics"
-            }
-          },
-          {
-            "id": "6ded984ac043b9e8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Boostrap.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Boostrap"
+              "title": "Hierarchical Clustering"
             }
           }
-        ],
-        "currentTab": 1
+        ]
+      },
+      {
+        "id": "8e7e44e887ea722a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3ad273ed02089eb1",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Lec_cluster_2026.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Lec_cluster_2026"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,7 +96,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "376156eaf33c219d",
@@ -180,13 +184,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Feature Selection.md",
+                "file": "Notes/Hierarchical Clustering.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Feature Selection"
+              "title": "Outline of Hierarchical Clustering"
             }
           },
           {
@@ -218,14 +222,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6ded984ac043b9e8",
+  "active": "8b58146261f8ae2e",
   "lastOpenFiles": [
-    "Notes/Boostrap.md",
+    "Notes/Unsupervised learning (Clustering).md",
+    "Notes/K means clustering.md",
+    "Notes/Hierarchical Clustering.md",
+    "Lec_cluster_2026.pdf",
     "Notes/Classifier Evaluation Metrics.md",
+    "Notes/Pasted image 20260429135957.png",
+    "Notes/Cross-Validation.md",
+    "Notes/Boostrap.md",
+    "Lec_classification_4.pdf",
     "Notes/Random Subsampling.md",
     "Notes/Holdout Method.md",
     "Notes/KNN Algorithm.md",
-    "Lec_classification_4.pdf",
     "Lec_classification_3.pdf",
     "Notes/Supervised Learning (Classification).md",
     "Notes/Naive Bayes Classifier.md",
@@ -247,16 +257,11 @@
     "Notes/Based on Clustering.md",
     "Notes/Tomek Links.md",
     "Notes/Pruning.md",
-    "Notes/New Note.md",
-    "Lec_cluster_2026.pdf",
     "msoB3C3.tmp",
     "~$Lec_cluster_2026.pptx",
     "Lec_cluster_2026.pptx",
-    "Notes/Ensemble Methods.md",
     "Gini Index VS Entropy.png",
-    "Notes/Hunts Algorithm.md",
     "Information Gain V",
-    "Notes/Entropy.md",
     "Lec_classification_1.pdf",
     "Lec_1_PCA.pdf",
     "Notes/Pasted image 20260419185458.png",

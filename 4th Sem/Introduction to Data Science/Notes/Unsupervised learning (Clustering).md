@@ -4,3 +4,4 @@
 This mainly includes : 
 - [[K means clustering]]
 
+- [[Hierarchical Clustering]]
