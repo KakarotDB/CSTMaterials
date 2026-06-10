@@ -92,4 +92,20 @@ $$\delta_5(S, T) = \frac{1}{|S| + |T|} \left\{ \sum_{x \in S} d(x,\ v_t) + \sum_
 
 ## Bottom up VS Top Down 
 
+### Which one is more complex ? 
+
+- Top down because a flat clustering is needed as a subroutine 
+
 ### Which one is more efficient ? 
+
+- Top Down 
+- For a fixed number of top levels, using an efficient flat algorithm like K means, divisive time complexity is $O(n^2)$ approximately 
+- Agglomerative time complexity is $O(n^3)$ approximately 
+
+### Which one is more accurate ? 
+
+- Top down 
+- Bottom up methods make clustering decisions based on local patterns without initially taking into account the global distribution - and these early decisions cannot be undone 
+- Top down clustering benefits from complete information about the global distribution when making top level partitions 
+
+
