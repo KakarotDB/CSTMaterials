@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "a156f2385edf4aac",
+        "id": "3b0a464ab69480af",
         "type": "tabs",
         "children": [
           {
-            "id": "ab5851fae4c26022",
+            "id": "d99b9c44dfc0a02a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Hierarchical Clustering.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Hierarchical Clustering"
+              "title": "New tab"
             }
           }
         ]
@@ -78,8 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "376156eaf33c219d",
@@ -204,8 +199,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ab5851fae4c26022",
+  "active": "d99b9c44dfc0a02a",
   "lastOpenFiles": [
+    "Notes/Hierarchical Clustering.md",
     "Notes/K means clustering.md",
     "Notes/Principal Component Analysis.md",
     "Notes/Classifier Evaluation Metrics.md",
@@ -219,7 +215,6 @@
     "Gini Index VS Entropy.png",
     "Lec_classification_1.pdf",
     "Notes/KNN Algorithm.md",
-    "Notes/Hierarchical Clustering.md",
     "Lec_classification_2.pdf",
     "Notes/Information Gain VS Gini Index.md",
     "Notes/CART.md",
