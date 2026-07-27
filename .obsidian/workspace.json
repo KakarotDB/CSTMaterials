@@ -1,0 +1,220 @@
+{
+  "main": {
+    "id": "10a84a2f3075aedc",
+    "type": "split",
+    "children": [
+      {
+        "id": "31bce4baea8174e3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a5a28379f7d72189",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5th Sem/Micorprocessor Based Systems/lab/LabAssignmentsSolutions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "LabAssignmentsSolutions"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "158c6586c87c3f35",
+    "type": "split",
+    "children": [
+      {
+        "id": "fd5c36cf0f8f89cd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7b6336355b58cf5d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "ecac804f90d145c2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "2b8bd86c250f0504",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "6bd0590ed79f0a7d",
+    "type": "split",
+    "children": [
+      {
+        "id": "0568f4492161353a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9299a05034a69b2f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "64a21396d2678118",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "60fb645080eabd97",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "682d5c88e6ecd012",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "3e3cc69f5999180d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "a5a28379f7d72189",
+  "lastOpenFiles": [
+    "5th Sem/Micorprocessor Based Systems/lab/Assignment2.pdf",
+    "5th Sem/Micorprocessor Based Systems/lab/Assignment1.pdf",
+    "5th Sem/Micorprocessor Based Systems/lab/Instruction Sets and Manual/InstructionSet8085.pdf",
+    "5th Sem/Micorprocessor Based Systems/lab/Instruction Sets and Manual/GSAS 85A User's Manual.pdf",
+    "5th Sem/Micorprocessor Based Systems/lab/Instruction Sets and Manual/8085_Instruction_Set_Reference_Encyclopedia.pdf",
+    "5th Sem/Micorprocessor Based Systems/lab/Instruction Sets and Manual",
+    "5th Sem/Micorprocessor Based Systems/lab/New folder",
+    "Untitled 2.md",
+    "Untitled 1.md",
+    "Untitled.md",
+    "MPBS Lab.md",
+    "Daily Docs/2026-07-27.md",
+    "Daily Docs/2026-07-26.md",
+    "Daily Docs/2026-07-25.md",
+    "Daily Docs/2026-07-24.md",
+    "Daily Docs/TIL.md",
+    "Daily Docs/2026-07-22.md",
+    "Excalidraw/Live Streaming 2026-01-26 15.02.18.excalidraw.md",
+    "Daily Docs/2026-07-21.md",
+    "Daily Docs/2026-07-20.md",
+    "Daily Docs/2026-07-19.md",
+    "Daily Docs",
+    "List of Games played.md",
+    "To Do List.md",
+    "CISCO OA Format.md",
+    "test.md",
+    "Finances.md",
+    "C++ Study.md",
+    "Brahmar.md",
+    "CAO Lab viva.md",
+    "Algo Zenith Designing Assignment.md"
+  ]
+}

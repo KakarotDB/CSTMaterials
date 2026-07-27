@@ -1,0 +1,10 @@
+{
+  "showRibbon": true,
+  "accentColor": "",
+  "cssTheme": "Tokyo Night",
+  "baseFontSize": 20,
+  "enabledCssSnippets": [
+    "center-mermaid"
+  ],
+  "textFontFamily": "ABCSans"
+}
