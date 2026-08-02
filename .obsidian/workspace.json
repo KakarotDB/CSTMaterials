@@ -20,6 +20,30 @@
               "icon": "lucide-file",
               "title": "LabAssignmentsSolutions"
             }
+          },
+          {
+            "id": "c01a70671b490905",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "5th Sem/Micorprocessor Based Systems/lab/Instruction Sets and Manual/MPBS Lab cheat sheet.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "MPBS Lab cheat sheet"
+            }
+          },
+          {
+            "id": "e0c7adcec41c44be",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "5th Sem/Micorprocessor Based Systems/lab/Assignment2.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Assignment2"
+            }
           }
         ]
       }
@@ -41,7 +65,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -78,8 +104,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "6bd0590ed79f0a7d",
@@ -185,6 +210,8 @@
   },
   "active": "a5a28379f7d72189",
   "lastOpenFiles": [
+    "5th Sem/Micorprocessor Based Systems/lab/Instruction Sets and Manual/MPBS Lab cheat sheet.pdf",
+    "5th Sem/Micorprocessor Based Systems/lab/LabAssignmentsSolutions.md",
     "5th Sem/Micorprocessor Based Systems/lab/Assignment2.pdf",
     "5th Sem/Micorprocessor Based Systems/lab/Assignment1.pdf",
     "5th Sem/Micorprocessor Based Systems/lab/Instruction Sets and Manual/InstructionSet8085.pdf",
